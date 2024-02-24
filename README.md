@@ -1,5 +1,5 @@
 ## IPTV Player
 
-<center>
-<img src="/logo.svg" />
-</center>
+<p align="center">
+<img src="/public//logo.svg" width="200px" height="200px"/>
+</p>
