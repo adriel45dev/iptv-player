@@ -47,6 +47,24 @@ export const metadata: Metadata = {
     },
     description: APP_DESCRIPTION,
   },
+
+  icons: {
+    icon: [
+      "/favicon-16x16.png?v=4",
+      "/favicon-32x32.png?v=4",
+      "/favicon.ico?v=4",
+      "/android-chrome-192x192.png?v=4",
+      "/android-chrome-512x512.png?v=4",
+      "/mstile-70x70.png?v=4",
+      "/mstile-144x144.png?v=4",
+      "/mstile-150x150.png?v=4",
+      "/mstile-310x150.png?v=4",
+      "/mstile-310x310.png?v=4",
+    ],
+
+    // Apple Touch Icons
+    apple: ["/apple-touch-icon.png?v=4", "/safari-pinned-tab.svg?v=4"],
+  },
 };
 
 export const viewport: Viewport = {
